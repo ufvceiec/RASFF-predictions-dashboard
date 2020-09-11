@@ -49,7 +49,7 @@ Carpeta con todos los notebooks que hay que ejecutar para preprocesar los datos 
 **Opcional_preprocess.ipynb**: Preprocesamiento opcional no terminado para intentar mejorar el rendimien to de los modelos.
 
 ## Datasets:
-Todos los datasets necesarios para a ejecución de los notebooks se encuentran en el Nas (Volumen 1)/carpeta **RASFF_predictions*.
+Todos los datasets necesarios para a ejecución de los notebooks se encuentran en el Nas (Volumen 1)/carpeta **RASFF_predictions**.
 
 ## Contact:
 Responsible: Alberto Nogales (alberto.nogales@ceiec.es)\
