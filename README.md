@@ -4,9 +4,7 @@ Análisis de los datos escrapeados de RASFF portal y desarrollo de un modelo de 
 ## Organización de los archivos:
 El proyecto cuenta con las siguientes carpetas:
 - Dashboard
-- Dimensionality_reduction
 - Independence_test
-- Kohonen
 - Models
 - Preprocessing
 
@@ -25,16 +23,8 @@ Archivos con las figuras para la implementación del dashboard.
 
 **Bokeh_login_screen.ipynb**: Posible pantalla de login muy simple pensada para mostrar resultados a clientes.
 
-### Dimensionality_reduction
-**MCA.ipynb**: Uso del algoritmo **multiple correspondence analysis(MCA)** indicado para variables categóricas para probar la reducción de dimensionalidad.
-
 ### Independence_test
 **Chi-squared_test.ipynb**: Uso del test **chi-squared** indicado para variables categóricas, para analizar la interdependencia de las variables presentes en el dataset.
-
-### Kohonen
-**RASFF_Kohonen.ipynb**: Uso de mapas auto-organizados(SOM) para el análisis de los datos.
-
-**RASFF_Kohonen_GEMA.ipynb**: Uso de mapas auto-organizados(SOM) mediane la librería GEMA desarrollada por el CEIEC para el análisis de los datos.
 
 ### Models
 **Categorical_embedding.ipynb**: Modelos de clasificación principales. Hacen uso de capas de embedding para re-codificar cada una de las variables categóricas y despúes clasificarlas mediante capas dense o convolucionales 1d (en función de la etapa).
