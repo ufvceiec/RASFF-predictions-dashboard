@@ -1,7 +1,7 @@
 # RASFF-predictions-dashboard
 Analysis of the scraped data from the RASFF portal and development of a prediction model in several stages and of several characteristics of possible future alerts. Likewise, some figures are implemented for the development of an interactive dashboard with the statistical information of the alerts and the predictions themselves.
 
-## Organización de los archivos:
+## File organization:
 The project contains the following folders:
 - Dashboard
 - Independence_test
