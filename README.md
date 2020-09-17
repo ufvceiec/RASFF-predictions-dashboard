@@ -3,26 +3,11 @@ Analysis of the scraped data from the RASFF portal and development of a predicti
 
 ## File organization:
 The project contains the following folders:
-- Dashboard
 - Independence_test
 - Models
 - Preprocessing
 
-All files are designed to run linearly, except those containing figures developed with the **Bokeh** library.
-
-### Dashboard
-Files with the figures for the implementation of the dashboard.
-
-**Figures developed with Bokeh**: Diagrams and interactive figures developed with the Bokeh library. To view all the Bokeh figures, it is necessary to carry out the following steps:
-
-- Open Command Prompt
-- Access the folder where the notebook is
-- Enter the following command ```bokeh serve --show myapp.py``` changing *myapp.py* for the name of the file that contains the figure.
-- A tab with the following address ```http: // localhost: 5006 / myapp``` will automatically open in the browser, that will contain the interactive Bokeh figure.
-
-**Bar_chart_anual.ipynb**: Simple bar charts.
-
-**Bokeh_login_screen.ipynb**: Very simple login screen designed to show results to clients.
+All files are designed to run linearly. 
 
 ### Independence_test
 **Chi-squared_test.ipynb**:  Use of the **chi-squared** test indicated for categorical variables, to analyze the interdependence of the dataset variables.
