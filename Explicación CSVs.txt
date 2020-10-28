@@ -1,0 +1,14 @@
+2004-2018_ALERTS 			-->	Subdataset entre los años 2004 y 2018.
+2019_RASFF_DATA_16092019		-->	Subdataset solo del año 2019 (última fecha actual)
+full_RASFF_DATA_16092019		-->	Todos los datos hasta el año 2019 (última fecha actual)
+RASFF_DATA_16092019			-->	Subdataset entre los años 2004 y 2019 (última fecha actual)
+RASFF_DATA_from_13-09-2019_fixed_2	-->	Datos desde el 08/10/2019 hasta 20/07/2020 - Proposito ?
+RASFF_DATA_from_13-09-2019_fixed_3	-->	Datos desde el 06/09/2019 hasta 17/01/2020 - Proposito ?
+RASFF_DATA_from_13-09-2019_fixed_4	-->	Datos desde el 06/09/2019 hasta 17/01/2020 - Proposito ? - Se pone el type a minsuculas.
+splited_2019_RASFF_DATA_16092019	-->	Subdataset solo del año 2019 (última fecha actual) - Diferente que el primero. En este los registros que 
+						tenián múltiples países afectados, son separados en filas distintas repitiendo el registro por cada país afectado.
+splited_alerts_strings			-->	Datecase extraño, extraño (?) Subdivisión por meses quizás?
+splited_alerts_strings2019		-->	Datecase extraño, solo aparecen 3s
+splited_alerts2019			-->	Subdataset desde 01/01/2019 hasta 15/03/2019
+splited_RASFF_DATA_16092019		-->	Subdataset desde 2004 hasta 2018 con los ajustes realizados para contar cada registro
+						con múltiples países en varías filas. - Propósito ?
